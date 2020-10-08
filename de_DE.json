@@ -8,6 +8,9 @@
       "Delete ${ name }": [
         "${ name } löschen",
         "${ count } Kontakte löschen"
+      ],
+      "Delete ${ Name }": [
+        "${ Name } löschen"
       ]
     }
   }

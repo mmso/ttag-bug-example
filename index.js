@@ -20,4 +20,12 @@ const error1 = () => {
   console.log(result);
 }
 
+const error2 = () => {
+  const Name = 'John Doe';
+  const result = c('Title').t`Delete ${Name}`;
+
+  console.log(result);
+}
+
 error1();
+error2();
