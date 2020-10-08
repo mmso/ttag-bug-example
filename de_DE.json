@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "de"
+  },
+  "contexts": {
+    "Title": {
+      "Delete ${ name }": [
+        "${ name } löschen",
+        "${ count } Kontakte löschen"
+      ]
+    }
+  }
+}
